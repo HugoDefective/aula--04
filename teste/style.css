@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 25px;
+    margin: 15px;
+}
+li {
+    list-style: none;
+    display: inline;
+}
+.menu{
+    background-color: brown;
+}
+.texto{
+    background-color: blueviolet;
+}

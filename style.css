@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(111, 74, 153);
+    font-family: monospace;
+    font-size: 100px;
+    
+
+    }
+p {
+    text-align: center;
+    background-color: rgba(109, 59, 190, 0.616);
+}
+
+body {
+    background-color: rgba(0, 146, 156, 0.733);
+
+}
+img {
+    width: 300px;
+}
